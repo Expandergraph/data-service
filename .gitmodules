@@ -1,0 +1,6 @@
+[submodule "deps/substrate-archive"]
+	path = deps/substrate-archive
+	url = git@github.com:paritytech/substrate-archive.git
+[submodule "deps/substrate-api-sidecar"]
+	path = deps/substrate-api-sidecar
+	url = git@github.com:paritytech/substrate-api-sidecar.git
